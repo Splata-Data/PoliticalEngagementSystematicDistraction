@@ -1,5 +1,7 @@
 # Fact-Checking Mass Shooting Claims: Separating Truth from Propaganda
-
+<br>
+<img src=https://github.com/Splata-Data/PoliticalEngagementSystematicDistraction/blob/main/be_fact_checked.jpg>
+<br>
 ## Executive Summary
 
 The social media post in question makes several false and misleading claims about transgender people and mass shootings. While 3-4 of the cited incidents are factually accurate, the post contains significant misinformation, omits crucial context, and promotes a harmful narrative that contradicts extensive research data.
